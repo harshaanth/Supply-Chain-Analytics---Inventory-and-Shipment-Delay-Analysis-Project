@@ -8,20 +8,13 @@ Efficient supply chain management is essential for operational success. By monit
 
 ---
 
-## Data Sources, Connections, and Fields
+## Data Sources
 The project integrates data from three main sources, connected to create a unified data model in Tableau:
 
-1. **Data Sources**
    - **orders_and_shipments**: Contains monthly order data and shipment details, providing insights on order trends, shipment delays, and fulfillment metrics.
-   - **inventory**: Tracks stock levels across various product categories, helping assess the health and balance of inventory.
+   - **inventory**: Contains inventory costs, Warehouse details.
    - **fulfillment**: Includes information on warehouse order fulfillment times, allowing for the evaluation of supply chain efficiency.
 
-2. **Data Connections**
-   The data sources are connected in Tableau as follows:
-   - `orders_and_shipments` is joined with `inventory` on the `Product ID` field to align orders with their corresponding inventory levels.
-   - `inventory` is joined with `fulfillment` on the `Warehouse ID` field, linking inventory data to fulfillment times by warehouse.
-   - 
----
 
 ## Tools and Technologies
 - **Tableau**: Used for data visualization and building interactive dashboards.
