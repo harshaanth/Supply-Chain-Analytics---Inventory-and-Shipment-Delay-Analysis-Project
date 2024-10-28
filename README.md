@@ -24,7 +24,7 @@ The project integrates data from three main sources, connected to create a unifi
 ---
 
 ## Dashboards
-### 1. Shipment Delays Dashboard
+### 1. Shipment Delays Dashboard ![Shipment Dashboard](https://github.com/user-attachments/assets/01f2c621-188b-4400-a89f-729dd16d756a)
    - **Purpose**: Analyzes shipment delays over time, showing patterns and identifying periods with high or low delivery times.
    - **Features**: Trend line of average shipment delay, breakdown by month, and filter options for regional analysis.
    - **Insights**: Reveals significant shipment delays before mid-2016, with a marked improvement afterward, potentially indicating changes in supply chain processes or logistics.
