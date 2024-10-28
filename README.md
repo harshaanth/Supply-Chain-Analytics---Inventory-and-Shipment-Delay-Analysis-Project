@@ -24,15 +24,15 @@ The project integrates data from three main sources, connected to create a unifi
 ---
 
 ## Dashboards
-### 1. Inventory Levels Dashboard
-   - **Purpose**: Monitors inventory across product categories, identifying understocked and overstocked items.
-   - **Features**: Visual representation of stock levels by category to understand supply-demand alignment.
-   - **Insights**: Highlights persistently understocked categories, suggesting a need for refined forecasting or adjustments in stock ordering cycles. Frequent fluctuations, particularly in Women’s Apparel, indicate areas requiring attention.
-
-### 2. Shipment Delays Dashboard
+### 1. Shipment Delays Dashboard
    - **Purpose**: Analyzes shipment delays over time, showing patterns and identifying periods with high or low delivery times.
    - **Features**: Trend line of average shipment delay, breakdown by month, and filter options for regional analysis.
    - **Insights**: Reveals significant shipment delays before mid-2016, with a marked improvement afterward, potentially indicating changes in supply chain processes or logistics.
+     
+### 2. Inventory Levels Dashboard
+   - **Purpose**: Monitors inventory across product categories, identifying understocked and overstocked items.
+   - **Features**: Visual representation of stock levels by category to understand supply-demand alignment.
+   - **Insights**: Highlights persistently understocked categories, suggesting a need for refined forecasting or adjustments in stock ordering cycles. Frequent fluctuations, particularly in Women’s Apparel, indicate areas requiring attention.
 
 ---
 
