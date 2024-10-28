@@ -24,12 +24,14 @@ The project integrates data from three main sources, connected to create a unifi
 ---
 
 ## Dashboards
-### 1. Shipment Delays Dashboard ![Shipment Dashboard](https://github.com/user-attachments/assets/01f2c621-188b-4400-a89f-729dd16d756a)
+### 1. Shipment Delays Dashboard
+![Shipment Dashboard](https://github.com/user-attachments/assets/01f2c621-188b-4400-a89f-729dd16d756a)
    - **Purpose**: Analyzes shipment delays over time, showing patterns and identifying periods with high or low delivery times.
    - **Features**: Trend line of average shipment delay, breakdown by month, and filter options for regional analysis.
    - **Insights**: Reveals significant shipment delays before mid-2016, with a marked improvement afterward, potentially indicating changes in supply chain processes or logistics.
      
 ### 2. Inventory Levels Dashboard
+![Inventory Dashboard](https://github.com/user-attachments/assets/f0f0e297-96b6-444b-a35f-279cacc72b7f)
    - **Purpose**: Monitors inventory across product categories, identifying understocked and overstocked items.
    - **Features**: Visual representation of stock levels by category to understand supply-demand alignment.
    - **Insights**: Highlights persistently understocked categories, suggesting a need for refined forecasting or adjustments in stock ordering cycles. Frequent fluctuations, particularly in Women’s Apparel, indicate areas requiring attention.
@@ -37,6 +39,9 @@ The project integrates data from three main sources, connected to create a unifi
 ---
 
 ## Story Points and Key Insights
+![Findings - 1](https://github.com/user-attachments/assets/8061319e-3d23-4bd7-9dee-eddbf12baf50)
+![Findings - 2](https://github.com/user-attachments/assets/a74a6aa1-fd84-4d38-86d7-234da66332d1)
+
 A **Story Point** summarizes major findings for stakeholder review:
 1. **Highest Monthly Order Quantity**: October 2016, with 2.3K orders.
 2. **Month with Most Delays**: January 2015, with 61% of orders delayed over 5 days.
