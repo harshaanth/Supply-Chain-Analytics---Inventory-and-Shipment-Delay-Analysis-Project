@@ -54,6 +54,7 @@ The project integrates data from three main sources, connected to create a unifi
    - **Top Overstock Category:** Toys, ranked **2nd** in monthly overstock frequency.
    - **Highest Supply Exceeding Demand:** Cleats.
    - **Supply-Demand Imbalance:** Indoor/Outdoor Games category shows a recurring mismatch, deviating from the supply = demand line.
+   - **Indoor/Outdoor Games Category:** Exhibited the lowest average monthly understock of -45.58 and an average warehouse order fulfillment time of 5.5 days, highlighting a critical need for enhanced inventory management and demand forecasting strategies.
 
 5. **Country-Specific Delays:**  
    - **Overall (ALL):** 61% of orders delayed, with an average delay time of 0.5 days.
