@@ -41,25 +41,35 @@ The project integrates data from three main sources, connected to create a unifi
 ![Findings - 1](https://github.com/user-attachments/assets/8061319e-3d23-4bd7-9dee-eddbf12baf50)
 ![Findings - 2](https://github.com/user-attachments/assets/a74a6aa1-fd84-4d38-86d7-234da66332d1)
 
-A **Story Point** summarizes major findings for stakeholder review:
-1. **Highest Monthly Order Quantity**: October 2016, with 2.3K orders.
-2. **Month with Most Delays**: January 2015, with 61% of orders delayed over 5 days.
-3. **Last Notable Delay Spike**: May 2016 had average delays above 0.5 days.
-4. **Overstocking and Understocking Patterns**:
-   - Top overstock category: **Toys** (2nd in monthly overstock).
-   - Category with the highest supply exceeding demand: **Cleats**.
-5. **Country-Specific Delays**: U.S. warehouse noted for having average shipment delays exceeding the global benchmark (0.5 days).
-6. **Supply-Demand Imbalance**: **Indoor/Outdoor Games** category deviates from the supply = demand line.
+## A Story Point Summarizes Major Findings for Stakeholder Review:
 
----
+1. **Highest Monthly Order Quantity:**  
+   - **October 2016**, with **2.3K orders**.
 
-## Conclusion
-This Tableau analysis highlights critical areas of improvement:
-1. **Reduction in shipment delays post-May 2016**, indicating effective improvements in logistics.
-2. **Persistent under- and overstock issues** in categories like Women’s Apparel and Toys suggest a need for better demand forecasting and inventory planning.
-3. **U.S. warehouse delays** exceed the global average, warranting further regional adjustments.
+2. **Month with Most Delays:**  
+   - **January 2015**: **17.03% delayed over 5 days, and 37.45% delayed up to 5 days**.
 
-These insights can support better decision-making in inventory management and logistics, aiming for higher customer satisfaction and operational efficiency.
+3. **Last Notable Delay Spike:**  
+   - **May 2016** saw **average delays exceeding 0.5 days**, indicating a significant spike.
+
+4. **Overstocking and Understocking Patterns:**  
+   - **Top Overstock Category:** Toys, ranked **2nd** in monthly overstock frequency.
+   - **Highest Supply Exceeding Demand:** Cleats.
+   - **Supply-Demand Imbalance:** Indoor/Outdoor Games category shows a recurring mismatch, deviating from the supply = demand line.
+
+5. **Country-Specific Delays:**  
+   - **Overall (ALL):** 61% of orders delayed, with an average delay time of 0.5 days.
+   - **Puerto Rico:** Slightly lower percentage of delayed orders at **60.1%**, but a **higher average delay time of 1.4 days**, highlighting logistical challenges that extend delivery times.
+   - **USA:** Higher delayed order percentage at **61.5%**, yet a **lower average delay time of -0.1 days** (indicating minor lead-time gains).
+
+## Conclusion:
+This Tableau analysis highlights critical areas for improvement:
+
+- **Reduction in shipment delays post-May 2016** suggests effective logistical adjustments, though regional delay patterns in Puerto Rico and the U.S. warrant further review.
+- **Persistent under- and overstocking** in categories like Women’s Apparel and Toys calls for enhanced demand forecasting and inventory planning.
+- **U.S. warehouse delays** show minor improvements in delay time despite a higher frequency of delays, while Puerto Rico’s prolonged delays indicate a need for regional focus.
+
+These insights offer a foundation for improved inventory management and logistics, aiming for increased customer satisfaction and operational efficiency.
 
 ---
 
