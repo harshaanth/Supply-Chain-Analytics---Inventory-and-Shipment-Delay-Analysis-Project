@@ -15,7 +15,6 @@ The project integrates data from three main sources, connected to create a unifi
    - **inventory**: Contains inventory costs, and warehouse details.
    - **fulfillment**: Includes information on warehouse order fulfillment times, allowing for the evaluation of supply chain efficiency.
 
-
 ## Tools and Technologies
 - **Tableau**: Used for data visualization and building interactive dashboards.
 - **Data Sources**: Integrated from multiple Microsoft Excel files to create a unified data model in Tableau.
@@ -71,3 +70,10 @@ These insights can support better decision-making in inventory management and lo
 4. **Dashboard Design**: Identify themes for dashboard creation, combining worksheets into cohesive insights.
 5. **Interactivity**: Add and test interactive elements (filters, dashboard actions) to improve user experience.
 6. **Data Storytelling**: Assemble dashboards and visualizations into a story point to guide stakeholders through key findings.
+
+## Files in Repository
+
+- **HarshaanthKumar_ThiyagarajaKumar_DataCampSC.twbx**: 
+  - Tableau workbook file containing all data connections, dashboards, and story points for the analysis.
+  - This workbook is self-contained, with multiple data sources integrated to analyze inventory levels and shipment delays.
+  - Open this file in Tableau Desktop or Tableau Online to interact with the data visualizations and explore insights.
