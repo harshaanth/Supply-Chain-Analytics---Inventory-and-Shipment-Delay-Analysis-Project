@@ -11,8 +11,8 @@ Efficient supply chain management is essential for operational success. By monit
 ## Data Sources
 The project integrates data from three main sources, connected to create a unified data model in Tableau:
 
-   - **orders_and_shipments**: Contains monthly order data and shipment details, providing insights on order trends, shipment delays, and fulfillment metrics.
-   - **inventory**: Contains inventory costs, Warehouse details.
+   - **orders_and_shipments**: Contains monthly order data.
+   - **inventory**: Contains inventory costs, and warehouse details.
    - **fulfillment**: Includes information on warehouse order fulfillment times, allowing for the evaluation of supply chain efficiency.
 
 
