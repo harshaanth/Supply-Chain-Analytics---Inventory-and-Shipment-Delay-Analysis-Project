@@ -47,7 +47,7 @@ The project integrates data from three main sources, connected to create a unifi
    - **October 2016**, with **2.3K orders**.
 
 2. **Month with Most Delays:**  
-   - **January 2015**: **17.03% delayed over 5 days, and 37.45% delayed up to 5 days**.
+   - **January 2015**: **17.03% delayed over 5 days**, and 37.45% delayed up to 5 days.
 
 3. **Last Notable Delay Spike:**  
    - **May 2016** saw **average delays exceeding 0.5 days**, indicating a significant spike.
