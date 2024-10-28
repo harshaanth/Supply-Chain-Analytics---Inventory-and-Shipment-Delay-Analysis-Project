@@ -37,11 +37,9 @@ The project integrates data from three main sources, connected to create a unifi
 
 ---
 
-## Story Points and Key Insights
+## Story Points and Key Insights for Stakeholder Review:
 ![Findings - 1](https://github.com/user-attachments/assets/8061319e-3d23-4bd7-9dee-eddbf12baf50)
 ![Findings - 2](https://github.com/user-attachments/assets/a74a6aa1-fd84-4d38-86d7-234da66332d1)
-
-## A Story Point Summarizes Major Findings for Stakeholder Review:
 
 1. **Highest Monthly Order Quantity:**  
    - **October 2016**, with **2.3K orders**.
