@@ -1,5 +1,9 @@
 # Inventory and Shipment Delay Analysis Project
 
+Tools: Tableau, Dashboards
+
+Analyzed shipment data using Tableau to improve operational efficiency. Calculated and visualized inventory by sales delta for product categories over time. Darted products in the supply and demand chart to identify overstocked and understocked products. Built KPIs to identify a 61% order delay rate, with a peak in October 2016. Calculated order, shipping, and delivery time data to identify delay time and critical areas for demand forecasting and inventory management strategies. Enhanced overall supply chain efficiency to reduce delay time
+
 Click on the link to view and interact with the dashboard: https://public.tableau.com/app/profile/harshaanth.kumar.thiyagaraja.kumar7877/viz/InventoryandShipmentDelayAnalysis/InventoryDashboard
 
 ## Project Overview
