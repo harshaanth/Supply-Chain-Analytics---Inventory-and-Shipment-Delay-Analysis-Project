@@ -1,5 +1,7 @@
 # Inventory and Shipment Delay Analysis Project
 
+Click on the link to view and interact with the dashboard: https://public.tableau.com/app/profile/harshaanth.kumar.thiyagaraja.kumar7877/viz/InventoryandShipmentDelayAnalysis/InventoryDashboard
+
 ## Project Overview
 This project analyzes inventory levels and shipment delays using Tableau to optimize supply chain performance and inventory management. The objective is to identify key areas for improvement in shipment speed, stock management, and overall operational efficiency.
 
